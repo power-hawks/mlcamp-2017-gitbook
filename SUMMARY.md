@@ -8,4 +8,7 @@
 * [LPTHW](LPTHW/README.md)
   * [Chapter1](LPTHW/Chapter-1.md)
   * [Chapter2](LPTHW/Chapter-2.md)
+  * [Chapter3](/LPTHW/Chapter-3.md)
+
+
 
