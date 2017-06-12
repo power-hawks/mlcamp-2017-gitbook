@@ -24,8 +24,6 @@ With Machine Learning Camp \(MLCAMP\), the goal is to follow a slow and progress
 * Phase 4: Deep Learning
 * Phase 5: Specialization \(AI, Robotics, Self-Driving Cars, etc.\)
 
-
-
 ## About MLCamp Trails
 
 Over time, we will be updating this section with the relevant trails \(syllabus\) for each phase.
@@ -48,13 +46,11 @@ Over time, we will be updating this section with the identities of various "scou
 
 1. [Nitya Narasimhan](https://www.github.com/nitya) - MLCamp Creator & Lead Scout
 2. 
-
-
-
-
 ## Acknowledgment
 
-The Machine Learning Study Camp 2017 is organized and run via the \[Google Developer Group of Hudson Valley\]\(http://www.gdghv.org\) founded by \[Nitya Narasimhan\]\(https://www.twitter.com/nitya\)![](/assets/gdghv.png)We are particularly grateful to the ECE Department at the \[State University of New York at New Paltz\]\(https://www.newpaltz.edu/\) for hosting our \[kickoff event\]\(https://www.meetup.com/gdg-hudson-valley/events/238372720/\), and to the Power-Hawks research group led by \[Dr. Baback Izadi\]\(https://www.newpaltz.edu/ocm/experts/display.php?id=73\) for supporting this effort.
+The Machine Learning Study Camp 2017 is organized and run via the \[Google Developer Group of Hudson Valley\]\([http://www.gdghv.org\](http://www.gdghv.org\)\) founded by \[Nitya Narasimhan\]\([https://www.twitter.com/nitya\)](https://www.twitter.com/nitya%29![]%28/assets/gdghv.png%29We)
 
 
+
+[We](https://www.twitter.com/nitya%29![]%28/assets/gdghv.png%29We) are particularly grateful to the ECE Department at the \[State University of New York at New Paltz\]\([https://www.newpaltz.edu/\](https://www.newpaltz.edu/\)\) for hosting our \[kickoff event\]\([https://www.meetup.com/gdg-hudson-valley/events/238372720/\](https://www.meetup.com/gdg-hudson-valley/events/238372720/\)\), and to the Power-Hawks research group led by \[Dr. Baback Izadi\]\([https://www.newpaltz.edu/ocm/experts/display.php?id=73\](https://www.newpaltz.edu/ocm/experts/display.php?id=73\)\) for supporting this effort.
 
