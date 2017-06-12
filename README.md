@@ -1,6 +1,6 @@
 # Machine Learning Study Camp 2017
 
-## About Study Camp
+## About Study Camp 
 
 The idea behind Study Camp is to combine the self-study approach of online learning with the support system provided by a study group that is focused on the same topic. In particular, a "Study Camp" typically has three components:
 
@@ -47,9 +47,7 @@ Over time, we will be updating this section with the identities of various "scou
 1. [Nitya Narasimhan](https://www.github.com/nitya) - MLCamp Creator & Lead Scout
 2. ## Acknowledgment
 
-The Machine Learning Study Camp 2017 is organized and run via the \[Google Developer Group of Hudson Valley\]\([http://www.gdghv.org](http://www.gdghv.org%29%29 founded by [Nitya Narasimhan]%28[https://www.twitter.com/nitya\)\) founded by \[Nitya Narasimhan\]\([https://www.twitter.com/nitya\).](https://www.twitter.com/nitya%29![]%28/assets/gdghv.png%29We)
-
-
+The Machine Learning Study Camp 2017 is organized and run via the \[Google Developer Group of Hudson Valley\]\([http://www.gdghv.org](http://www.gdghv.org%29%29 founded by [Nitya Narasimhan]%28[https://www.twitter.com/nitya%29%29 founded by [Nitya Narasimhan]%28[https://www.twitter.com/nitya\).\]\([https://www.twitter.com/nitya\)!\[\]\(/assets/gdghv.png\)We](https://www.twitter.com/nitya%29![]%28/assets/gdghv.png%29We)\)
 
 [We](https://www.twitter.com/nitya%29![]%28/assets/gdghv.png%29We) are particularly grateful to the ECE Department at the \[State University of New York at New Paltz\]\([https://www.newpaltz.edu/\](https://www.newpaltz.edu/%29\) for hosting our \[kickoff event\]\([https://www.meetup.com/gdg-hudson-valley/events/238372720/\](https://www.meetup.com/gdg-hudson-valley/events/238372720/%29\), and to the Power-Hawks research group led by \[Dr. Baback Izadi\]\([https://www.newpaltz.edu/ocm/experts/display.php?id=73\](https://www.newpaltz.edu/ocm/experts/display.php?id=73%29\) for supporting this effort.
 
