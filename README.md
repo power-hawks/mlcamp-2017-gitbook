@@ -1,6 +1,6 @@
 # Machine Learning Study Camp 2017
 
-## About Study Camp 
+## About Study Camp
 
 The idea behind Study Camp is to combine the self-study approach of online learning with the support system provided by a study group that is focused on the same topic. In particular, a "Study Camp" typically has three components:
 
@@ -28,7 +28,7 @@ With Machine Learning Camp \(MLCAMP\), the goal is to follow a slow and progress
 
 Over time, we will be updating this section with the relevant trails \(syllabus\) for each phase.
 
-### The Python Trail
+### [The Python Trail](https://power-hawks.gitbooks.io/ml-study-camp-2017/content/ThePythonTrail/)
 
 ### The Data Analysis Trail
 
@@ -46,3 +46,6 @@ Over time, we will be updating this section with the identities of various "scou
 
 1. [Nitya Narasimhan](https://www.github.com/nitya) - MLCamp Creator & Lead Scout
 2. ## Acknowledgment
+
+
+
