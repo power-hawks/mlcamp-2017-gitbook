@@ -9,5 +9,6 @@
   * [Python-101](ThePythonTrail/python-101.md)
 * [The DataAnalysis Trail](The DataAnalysis Trail/README.md)
   * [DataAnalysis-101](The DataAnalysis Trail/dataanalysis-101.md)
+  * [DataAnalysis-102](The DataAnalysis Trail/dataanalysis-102.md)
 * [The MachineLearning Trail](The MachineLearning Trail/README.md)
 
