@@ -8,4 +8,5 @@
 * [The Python Trail](ThePythonTrail/README.md)
   * [Python-101](ThePythonTrail/python-101.md)
 * [The DataAnalysis Trail](The DataAnalysis Trail/README.md)
+  * [DataAnalysis-101](The DataAnalysis Trail/dataanalysis-101.md)
 
