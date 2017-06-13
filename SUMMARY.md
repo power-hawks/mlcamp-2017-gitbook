@@ -9,6 +9,6 @@
   * [Chapter1](LPTHW/Chapter-1.md)
   * [Chapter2](LPTHW/Chapter-2.md)
   * [Chapter3](/LPTHW/Chapter-3.md)
-
-
+* [The Python Trail](ThePythonTrail/README.md)
+  * [Python-101](ThePythonTrail/python-101.md)
 
