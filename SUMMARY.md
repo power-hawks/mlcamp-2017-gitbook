@@ -1,5 +1,7 @@
 # Summary
 
+## BASICS
+
 * [Introduction](README.md)
 * [CS101](CS101/README.md)
   * [CS101: Chapter 1](CS101/CS101-1.md)
@@ -12,4 +14,8 @@
   * [MachineLearning-101](The MachineLearning Trail/machinelearning-101.md)
   * [MachineLearning-102](The MachineLearning Trail/machinelearning-102.md)
   * [MachineLearning-103](The MachineLearning Trail/machinelearning-103.md)
+
+## PYTHON
+
+* [Overview](python/introduction.md)
 
