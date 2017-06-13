@@ -13,5 +13,5 @@
 * [The MachineLearning Trail](The MachineLearning Trail/README.md)
   * [MachineLearning-101](The MachineLearning Trail/machinelearning-101.md)
   * [MachineLearning-102](The MachineLearning Trail/machinelearning-102.md)
-  * MachineLearning-103
+  * [MachineLearning-103](The MachineLearning Trail/machinelearning-103.md)
 
