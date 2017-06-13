@@ -7,4 +7,5 @@
   * [UD036-1](UD036/Chapter-1.md)
 * [The Python Trail](ThePythonTrail/README.md)
   * [Python-101](ThePythonTrail/python-101.md)
+* [The DataAnalysis Trail](the-dataanalysis-trail.md)
 
