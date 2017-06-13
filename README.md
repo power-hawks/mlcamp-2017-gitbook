@@ -32,7 +32,7 @@ Over time, we will be updating this section with the relevant trails \(syllabus\
 
 ### [The Data Analysis Trail](https://power-hawks.gitbooks.io/ml-study-camp-2017/content/The DataAnalysis Trail/)
 
-### The Machine Learning Trail
+### [The Machine Learning Trail](https://power-hawks.gitbooks.io/ml-study-camp-2017/content/The%20MachineLearning%20Trail/)
 
 ### The Deep Learning Trail
 
