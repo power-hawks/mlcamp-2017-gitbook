@@ -11,4 +11,7 @@
   * [DataAnalysis-101](The DataAnalysis Trail/dataanalysis-101.md)
   * [DataAnalysis-102](The DataAnalysis Trail/dataanalysis-102.md)
 * [The MachineLearning Trail](The MachineLearning Trail/README.md)
+  * [MachineLearning-101](The MachineLearning Trail/machinelearning-101.md)
+  * MachineLearning-102
+  * MachineLearning-103
 
