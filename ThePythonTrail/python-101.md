@@ -1,16 +1,16 @@
 # PYTHON 101
 
-Most of the intermediate and advanced tools and techniques for machine learning \(that we will cover\) require knowledge of Python \(the programming language\). In particular, we expect that students will need a primer in the following aspects of Python that we hope to cover in these notes. 
+Most of the intermediate and advanced tools and techniques for machine learning \(that we will cover\) require knowledge of Python \(the programming language\). In particular, we expect that students will need a primer in the following aspects of Python that we hope to cover in these notes.
 
-1. Strings, numbers, and variables
-2. Statements, operators, and expressions
-3. Lists, tuples, and dictionaries
-4. Conditions, loops
-5. Procedures, objects, modules, and libraries
-6. Troubleshooting and debugging
-7. Research & Documentation
-8. Problem solving
-9. Algorithms and data structures
+1. _Strings, numbers, and variables_
+2. _Statements, operators, and expressions_
+3. _Lists, tuples, and dictionaries_
+4. _Conditions, loops_
+5. _Procedures, objects, modules, and libraries_
+6. _Troubleshooting and debugging_
+7. _Research & Documentation_
+8. _Problem solving_
+9. _Algorithms and data structures_
 
 These topics reflect the pre-requisites outline in the [Udacity Machine Learning Nanodegree program](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009). We will try to cover these in full though we may not necessarily do those in the same order.
 
@@ -28,7 +28,7 @@ It is our hope that some subset of Study Campers will consider following through
 
 ## Tuples & Dictionaries
 
-## Conditions 
+## Conditions
 
 ## Loops
 
@@ -40,17 +40,15 @@ It is our hope that some subset of Study Campers will consider following through
 
 ## Algorithms
 
-## Data Structures 
+## Data Structures
 
-##  
+## 
 
-##  
+## 
 
 ## OPEN ISSUES
 
 Use this section to capture any issues or frequently-asked questions that might be helpful to others following you on this trail.
-
-
 
 # RESOURCES
 
